@@ -1,0 +1,6 @@
+config.py
+Certificates.csv
+ISCC_Korea_Report.xlsx
+summary.html
+__pycache__/
+*.pyc
